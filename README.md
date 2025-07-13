@@ -20,10 +20,12 @@
     ├── Store/
 ```
 
+## Demo
+https://www.youtube.com/watch?v=D7PIh4vfVeA
+
 ## Prerequisite
 - npm
 npm install npm@latest -g
-
 
 
 ## .env set up
