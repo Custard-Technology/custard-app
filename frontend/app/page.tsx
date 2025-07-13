@@ -15,7 +15,7 @@ export default function SignUpPage() {
             </div>
             <span className="font-bold text-2xl">Custard</span>
           </div>
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900">Welcome back</h2> 
+          <h2 className="text-3xl font-bold tracking-tight text-gray-900">Welcome</h2> 
         </div>
       </div>
       <Card className="w-full max-w-md shadow-lg border-0 bg-white">
