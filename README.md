@@ -4,10 +4,10 @@
 # Structure 
 ```
 /contract
-    ├── artificats/               #artifacts
-    ├── cache/                    # Cache
-    ├── contracts/ scripts       # Contracts
-    ├── scripts/         # Custom hooks
+    ├── artificats/                 #artifacts
+    ├── cache/                      # Cache
+    ├── contracts/ scripts          # Contracts
+    ├── scripts/                    # Custom hooks
 ```
 ```   
 /frontend
@@ -33,6 +33,6 @@
 ```
     cd frontend
     npm install
-    npm run dev
+    npm run dev 
 ```
 
