@@ -287,7 +287,7 @@ export default function DashboardPage() {
             </div>
           ) : (
             <>
-              <h1 className="text-3xl font-bold text-gray-900">Welcome back, {userProfile?.name?.split(" ")[0]}!</h1>
+              <h1 className="text-3xl font-bold text-gray-900">Welcome, {userProfile?.name?.split(" ")[0]}!</h1>
               <p className="text-gray-600 mt-2">
                 Manage your {userProfile?.tokenName} ({userProfile?.tokenSymbol})
               </p>

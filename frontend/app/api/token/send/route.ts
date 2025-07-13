@@ -70,7 +70,7 @@ async function handler(request: AuthenticatedRequest) {
     });
 
     const { error } = await resend.emails.send({
-      from: "Abakcus <no-reply@abakcus.xyz>",
+      from: "Custard <no-reply@abakcus.xyz>",
       to: [email],
       subject: `🎉 You earned ${amount} Points`,
       html: templatEmail,
